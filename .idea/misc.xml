@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ChatApplication/app/src/main/res/drawable/btn_background.xml" value="0.2125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ChatApplication/app/src/main/res/drawable/edt_background.xml" value="0.176" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ChatApplication/app/src/main/res/layout/activity_log_in.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ChatApplication/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ChatApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
